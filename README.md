@@ -4,7 +4,7 @@ Contentstack Kickstarts are the minimum amount of code needed to connect to Cont
 This kickstart covers the following items:
 
 - SDK initialization
-- Live preview and Visual building setup
+- Live preview and Visual building setup 
 
 More details about this codebase can be found on the [Contentstack docs](https://www.contentstack.com/docs/developers).
 
